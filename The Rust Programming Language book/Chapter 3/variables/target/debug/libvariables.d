@@ -1,0 +1,1 @@
+C:\Users\User\Documents\LearningRust\LearningRust\The\ Rust\ Programming\ Language\ book\Chapter\ 3\variables\target\debug\libvariables.rmeta: C:\Users\User\Documents\LearningRust\LearningRust\The\ Rust\ Programming\ Language\ book\Chapter\ 3\variables\src\main.rs

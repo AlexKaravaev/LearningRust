@@ -1,0 +1,1 @@
+C:\Users\User\Documents\LearningRust\LearningRust\The\ Rust\ Programming\ Language\ book\Chapter\ 3\types\target\debug\libtypes.rmeta: C:\Users\User\Documents\LearningRust\LearningRust\The\ Rust\ Programming\ Language\ book\Chapter\ 3\types\src\main.rs

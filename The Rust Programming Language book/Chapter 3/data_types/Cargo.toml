@@ -1,0 +1,6 @@
+[package]
+name = "data_types"
+version = "0.1.0"
+authors = ["AlexKaravaev <30314738+AlexKaravaev@users.noreply.github.com>"]
+
+[dependencies]
